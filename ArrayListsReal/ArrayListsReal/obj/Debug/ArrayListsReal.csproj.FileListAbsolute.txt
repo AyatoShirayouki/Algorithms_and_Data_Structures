@@ -1,0 +1,7 @@
+D:\University\Algorithums and data structures\ArrayListsReal\ArrayListsReal\bin\Debug\ArrayListsReal.exe.config
+D:\University\Algorithums and data structures\ArrayListsReal\ArrayListsReal\bin\Debug\ArrayListsReal.exe
+D:\University\Algorithums and data structures\ArrayListsReal\ArrayListsReal\bin\Debug\ArrayListsReal.pdb
+D:\University\Algorithums and data structures\ArrayListsReal\ArrayListsReal\obj\Debug\ArrayListsReal.csprojAssemblyReference.cache
+D:\University\Algorithums and data structures\ArrayListsReal\ArrayListsReal\obj\Debug\ArrayListsReal.csproj.CoreCompileInputs.cache
+D:\University\Algorithums and data structures\ArrayListsReal\ArrayListsReal\obj\Debug\ArrayListsReal.exe
+D:\University\Algorithums and data structures\ArrayListsReal\ArrayListsReal\obj\Debug\ArrayListsReal.pdb

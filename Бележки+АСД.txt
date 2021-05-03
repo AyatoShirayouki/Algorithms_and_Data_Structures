@@ -1,0 +1,7 @@
+
+Книга за C# и за стуктури от данни, ООП може да го пропуснете:
+https://introprogramming.info/intro-csharp-book/read-online/
+
+Книга за C#:
+https://csharp-book.softuni.bg/
+

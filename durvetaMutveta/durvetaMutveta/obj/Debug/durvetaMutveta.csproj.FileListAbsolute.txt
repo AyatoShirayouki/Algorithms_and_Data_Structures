@@ -1,0 +1,7 @@
+D:\University\Algorithums and data structures\durvetaMutveta\durvetaMutveta\obj\Debug\durvetaMutveta.csprojAssemblyReference.cache
+D:\University\Algorithums and data structures\durvetaMutveta\durvetaMutveta\obj\Debug\durvetaMutveta.csproj.CoreCompileInputs.cache
+D:\University\Algorithums and data structures\durvetaMutveta\durvetaMutveta\bin\Debug\durvetaMutveta.exe.config
+D:\University\Algorithums and data structures\durvetaMutveta\durvetaMutveta\bin\Debug\durvetaMutveta.exe
+D:\University\Algorithums and data structures\durvetaMutveta\durvetaMutveta\bin\Debug\durvetaMutveta.pdb
+D:\University\Algorithums and data structures\durvetaMutveta\durvetaMutveta\obj\Debug\durvetaMutveta.exe
+D:\University\Algorithums and data structures\durvetaMutveta\durvetaMutveta\obj\Debug\durvetaMutveta.pdb

@@ -1,0 +1,7 @@
+D:\University\Algorithums and data structures\Exercises\homeExercise\homeExercise\bin\Debug\homeExercise.exe.config
+D:\University\Algorithums and data structures\Exercises\homeExercise\homeExercise\bin\Debug\homeExercise.exe
+D:\University\Algorithums and data structures\Exercises\homeExercise\homeExercise\bin\Debug\homeExercise.pdb
+D:\University\Algorithums and data structures\Exercises\homeExercise\homeExercise\obj\Debug\homeExercise.csprojAssemblyReference.cache
+D:\University\Algorithums and data structures\Exercises\homeExercise\homeExercise\obj\Debug\homeExercise.csproj.CoreCompileInputs.cache
+D:\University\Algorithums and data structures\Exercises\homeExercise\homeExercise\obj\Debug\homeExercise.exe
+D:\University\Algorithums and data structures\Exercises\homeExercise\homeExercise\obj\Debug\homeExercise.pdb

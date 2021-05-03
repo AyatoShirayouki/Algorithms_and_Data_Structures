@@ -1,0 +1,7 @@
+D:\University\Algorithums and data structures\Exercises\ADS_Exerscise1\ADS_Exerscise1\bin\Debug\ADS_Exerscise1.exe.config
+D:\University\Algorithums and data structures\Exercises\ADS_Exerscise1\ADS_Exerscise1\bin\Debug\ADS_Exerscise1.exe
+D:\University\Algorithums and data structures\Exercises\ADS_Exerscise1\ADS_Exerscise1\bin\Debug\ADS_Exerscise1.pdb
+D:\University\Algorithums and data structures\Exercises\ADS_Exerscise1\ADS_Exerscise1\obj\Debug\ADS_Exerscise1.csprojAssemblyReference.cache
+D:\University\Algorithums and data structures\Exercises\ADS_Exerscise1\ADS_Exerscise1\obj\Debug\ADS_Exerscise1.csproj.CoreCompileInputs.cache
+D:\University\Algorithums and data structures\Exercises\ADS_Exerscise1\ADS_Exerscise1\obj\Debug\ADS_Exerscise1.exe
+D:\University\Algorithums and data structures\Exercises\ADS_Exerscise1\ADS_Exerscise1\obj\Debug\ADS_Exerscise1.pdb

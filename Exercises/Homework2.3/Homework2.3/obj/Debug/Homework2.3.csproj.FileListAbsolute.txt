@@ -1,0 +1,7 @@
+D:\University\Algorithums and data structures\Exercises\Homework2.3\Homework2.3\bin\Debug\Homework2.3.exe.config
+D:\University\Algorithums and data structures\Exercises\Homework2.3\Homework2.3\bin\Debug\Homework2.3.exe
+D:\University\Algorithums and data structures\Exercises\Homework2.3\Homework2.3\bin\Debug\Homework2.3.pdb
+D:\University\Algorithums and data structures\Exercises\Homework2.3\Homework2.3\obj\Debug\Homework2.3.csprojAssemblyReference.cache
+D:\University\Algorithums and data structures\Exercises\Homework2.3\Homework2.3\obj\Debug\Homework2.3.csproj.CoreCompileInputs.cache
+D:\University\Algorithums and data structures\Exercises\Homework2.3\Homework2.3\obj\Debug\Homework2.3.exe
+D:\University\Algorithums and data structures\Exercises\Homework2.3\Homework2.3\obj\Debug\Homework2.3.pdb
